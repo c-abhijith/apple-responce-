@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+.nav11{
+position: fixed; 
+top: 0; /* Position the navbar at the top of the page */
+width: 100%; 
+}
+
+.img2 {
+    width: 100%;
+}
+.iphon {
+    color: #080808;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1;
+}
+.learn {
+    color: #06c;
+    font-size: 21px;
+    line-height: 3;
+}
+.h1 {
+    color: black;
+    font-size: 75px;
+    font-weight: 600;
+}
+.ip {
+    font-size: 50px;
+    font-weight: 600;
+    color: blanchedalmond;
+    margin-top: 45px;
+}
+.sec- {
+    background-color: #35283c;
+}
+.supercharge {
+    color: #d2a0c5;
+    font-size: 21px;
+    font-weight: 700;
+}
+.buy {
+    color: #06c;
+}
+.macbook {
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 45px;
+}
+.airpod-img {
+    width: 30%;
+}
+.airpod {
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: 600;
+}
+.content {
+    font-size: 20px;
+    font-weight: 600;
+}
+.content-1 {
+    font-size: 18px;
+    color: #06c;
+    margin-top: 5px;
+}
+.airpod-2 {
+    font-size: 34px;
+    font-weight: 600;
+}
+.nn {
+    width: 50%;
+    height: 50vh;
+}
+.new {
+    font-size: 13px;
+    padding-top: 40px;
+    color: #d99770;
+    font-weight: 400;
+    line-height: 0;
+}
+.watches {
+    margin-top: 15px;
+    width: 25%;
+}
+.first-row {
+    font-size: 10px;
+    line-height: 2;
+    font-weight: 500;
+}
+.f8 {
+    font-size: 15px;
+}
+
+.ggg {
+    display: inline-block;
+}
+
+/* @media (min-width>335px){
+        .f8{
+            font-size: 21px;
+        }
+   }       */
+.row {
+    --bs-gutter-x: 0 !important;
+}
+.tt {
+    background-color: rgb(226, 223, 219);
+}
+.mm {
+    font-size: 14px;
+}
+/* @media (min-width: 992px) {
+
+    .ggg { 
+        display:none;  
+    }
+        } */
+.head {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(33, 37, 41);
+}
+span{
+    color: rgb(57, 126, 196);
+}
+.sect {
+    font-size: 12px;
+}
+.last {
+    margin-top: 10px;
+    background-color: #f5f5f7;
+    color: rgb(110, 110, 115);
+    font-size: 12px;
+}
+.last-blue {
+    color: rgb(52, 132, 138);
+}
+.lasts {
+    background-color: #f5f5f7;
+    color: rgb(110, 110, 115);
+    font-size: 10px;
+}
